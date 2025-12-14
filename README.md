@@ -1,7 +1,7 @@
 [쿠버네티스 어나더 클래스] Sprint2 배포
 
 
-● 212
+● 212  
 Jekins Job
 1) 2121-source-build  
    https://github.com/brandon99991/kubernetes-anotherclass-api-tester
